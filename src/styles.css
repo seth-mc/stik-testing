@@ -15,8 +15,8 @@ body,
 }
 
 body {
-  cursor: url('/images/ellipse.svg'), pointer;
-  cursor: -webkit-image-set(url('/images/ellipse.svg') 1x, url('/images/ellipse.svg') 2x), pointer;
+  cursor: url('/src/images/ellipse.svg'), pointer;
+  cursor: -webkit-image-set(url('/src/images/ellipse.svg') 1x, url('/src/images/ellipse.svg') 2x), pointer;
   background: #272727;
   font-family: 'Coolvetica';
 }
